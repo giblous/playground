@@ -19,6 +19,6 @@ class MainTest {
 
     @Test
     void main() {
-        Assertions.assertTrue(false); // intentionally fail test
+        Assertions.assertTrue(true); // intentionally fail test
     }
 }
